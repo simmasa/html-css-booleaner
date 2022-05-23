@@ -1,0 +1,85 @@
+/*head CSS*/
+body {
+    font-size:  20px;
+}
+#banner {
+    height: 150px;
+    background-color: #4EA0FF;
+    background-image: url(/BONUS/pattern.png);
+    background-size: 250px;
+}
+#banner img {
+    height: 70px;
+    position: relative;
+    top: 70px;
+}
+h1 {
+    font-weight: bolder;
+    font-size: 50px;
+}
+#written {
+    color: #999999;
+    font-weight: 500;
+    font-size: 20px;
+}
+header span {
+    color: #61D2F4;
+}
+/*Main CSS*/
+.foto img {
+    height: 450px;
+}
+.descPhoto {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.highlight {
+    background-color: #FCFB82;
+}
+/*CSS table*/
+table{
+    width: 100%;
+}
+th {
+    border: 1px solid white;
+    background-color: #4EA0FF;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.col1,.col2 {
+    width: 10%;
+}
+.col3 {
+    width: 100%;
+}
+tr:nth-child(odd) {
+    background-color: #ADD8E6;
+}
+tr {
+    height:40px;
+}
+td {
+    font-size: 19px;
+}
+/*Footer*/
+.footerP {
+    font-size: 22px;
+    font-weight: bold;
+    color: #999999;
+}
+.over {
+    position: relative;
+    top: 30px;
+    left: 35px;
+    color: white;
+    font-size: 29px;
+    font-weight: bold;
+    height: 0px;
+}
+footer img {
+    display: block;
+    margin: 20px 0px;
+    position: top 10px;
+}
