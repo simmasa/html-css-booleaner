@@ -1,4 +1,7 @@
 /*head CSS*/
+body {
+    font-size:  20px;
+}
 #banner {
     background-color: #4EA0FF;
 }
@@ -25,12 +28,11 @@ header span {
     font-size: 15px;
     font-weight: lighter;
 }
-.article {
-    font-size:  20px;
-}
+
 .highlight {
     background-color: #FCFB82;
 }
+/*CSS table*/
 table{
     width: 100%;
 }
@@ -41,10 +43,7 @@ th {
     font-weight: bold;
     font-size: 20px;
 }
-.col1 {
-    width: 10%;
-}
-.col2 {
+.col1,.col2 {
     width: 10%;
 }
 .col3 {
