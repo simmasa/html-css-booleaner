@@ -1,0 +1,18 @@
+/*head CSS*/
+#banner {
+    background-color: #4EA0FF;
+}
+#banner img {
+    height: 70px;
+}
+h1 {
+    font-weight: bold;
+    font-size: 55px;
+}
+#written {
+    color: #999999;
+    font-size: larger;
+}
+header span {
+    color: #61D2F4;
+}
